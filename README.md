@@ -1,8 +1,6 @@
 # DogeCore Protocol
-# DogeCore Protocol - Mine the Meme, Rule the Chain
 
-
-![DogeCore Logo](https://via.placeholder.com/150) <!-- Sostituisci con il tuo logo, se ne hai uno -->
+![DogeCore Logo](https://via.placeholder.com/150)
 
 **DogeCore Protocol** è un fork avanzato di Dogecoin, progettato per offrire un mining altamente profittevole e una blockchain robusta ispirata alle caratteristiche di privacy e scalabilità di Monero. Con una ricompensa iniziale di **100,000 DogeCore per blocco** e un intervallo di halving esteso a **500,000 blocchi**, DogeCore è costruito per incentivare i minatori e supportare una rete decentralizzata potente e duratura.
 
@@ -16,8 +14,6 @@
 
 ## Obiettivo
 DogeCore Protocol mira a combinare la semplicità e l’accessibilità di Dogecoin con un modello economico che premia i minatori e una struttura tecnica che guarda al futuro delle criptovalute decentralizzate.
-
----
 
 ## Installazione
 
